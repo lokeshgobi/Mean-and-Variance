@@ -74,7 +74,7 @@ variance=ex2-mean**2
 print("Mean= ",mean)
 print("Variance= ",variance)
 ```
-
+https://github.com/lokeshgobi/Mean-and-Variance
 
 # Output : 
 
